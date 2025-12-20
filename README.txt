@@ -63,6 +63,4 @@ Improve animations and UI
 
 Optimize performance and accessibility
 
-📬 Feel free to reach out via the contact form on the website!
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+
